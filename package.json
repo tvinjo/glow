@@ -1,0 +1,36 @@
+{
+  "name": "glow",
+  "version": "1.0.0",
+  "description": "Copy and Practice Build",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvinjo/glow.git"
+  },
+  "keywords": [
+    "Copy",
+    "Build",
+    "HTML",
+    "CSS",
+    "SASS",
+    "Bootstrap",
+    "Bootstrap-V5"
+  ],
+  "author": "Joseph Vincent C  Trajano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvinjo/glow/issues"
+  },
+  "homepage": "https://github.com/tvinjo/glow#readme",
+  "devDependencies": {
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.4.0",
+    "bootstrap": "^5.1.3"
+  }
+}
